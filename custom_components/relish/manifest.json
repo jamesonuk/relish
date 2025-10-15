@@ -1,0 +1,11 @@
+{
+  "domain": "relish",
+  "name": "Relish",
+  "codeowners": ["@jamesonuk"],
+  "config_flow": true,
+  "dependencies": ["requests, beautifulsoup4"],
+  "documentation": "",
+  "iot_class": "cloud_polling",
+  "quality_scale": "bronze",
+  "requirements": []
+}
